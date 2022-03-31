@@ -46,6 +46,7 @@
     display: inline-block;
     width: 50%;
     margin-top: 15px;
+    cursor: pointer;
 }
 
 .sidebarSocial{
@@ -53,6 +54,7 @@
     width: 250px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .sidebarIcon{
